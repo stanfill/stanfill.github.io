@@ -1,7 +1,3 @@
----
-title: "Hello world"
-output: html_document
-tagline: "Postdoctoral fellow"
----
+#Hello world
 
 I'm hosted with GitHub Pages.
