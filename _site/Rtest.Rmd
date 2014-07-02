@@ -1,0 +1,6 @@
+Test R markdown page `r 2+2`
+
+```{r echo=FALSE, message=FALSE}
+library(rotations)
+plot(ruars(20,rcayley,kappa=50))
+```
