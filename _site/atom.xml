@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Temporary</title>
- <link href="http://stanfill.github.io/" rel="self"/>
- <link href="http://stanfill.github.io"/>
- <updated>2014-07-03T04:11:59+10:00</updated>
- <id>http://stanfill.github.io</id>
+ <title>Bryan Stanfill</title>
+ <link href="/" rel="self"/>
+ <link href=""/>
+ <updated>2014-07-03T07:15:17+10:00</updated>
+ <id></id>
  <author>
    <name>Bryan Stanfill</name>
    <email>bryan.stanfill@csiro.au</email>
@@ -13,12 +13,16 @@
 
  
  <entry>
-   <title>Rotations</title>
-   <link href="http://stanfill.github.io/lessons/2014/07/03/rotations"/>
+   <title>SO(3) in R</title>
+   <link href="/r/2014/07/03/rotations"/>
    <updated>2014-07-03T00:00:00+10:00</updated>
-   <id>http://stanfill.github.io/lessons/2014/07/03/rotations</id>
+   <id>/r/2014/07/03/rotations</id>
    <content type="html">
-&lt;p&gt;Here is a plot of some randomly sampled observations from the location model in $SO(3)$&lt;/p&gt;
+&lt;p&gt;Here is a plot of some randomly sampled observations from the location model in &lt;script type=&quot;math/tex&quot;&gt;SO(3)&lt;/script&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;library(rotations)
+plot(ruars(20,rcayley,50))
+&lt;/code&gt;&lt;/pre&gt;
 </content>
  </entry>
  

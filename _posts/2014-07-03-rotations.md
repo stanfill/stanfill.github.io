@@ -1,14 +1,15 @@
 ---
+title: SO(3) in R
 layout: post
-category : lessons
-tagline: "Intoduction to `rotations` package"
-tags : [rotations, R, C++, tutorial]
+category : R
+tagline: "Intoduction to the rotations package"
+tags : [rotations, R, tutorial]
 ---
 {% include JB/setup %}
 
-Here is a plot of some randomly sampled observations from the location model in $SO(3)$
+Here is a plot of some randomly sampled observations from the location model in $$SO(3)$$
 
-{% highlight r %}
+~~~ r
 library(rotations)
 plot(ruars(20,rcayley,50))
-{% endhighlight %}
+~~~

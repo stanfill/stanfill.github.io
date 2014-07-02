@@ -1,10 +1,10 @@
 
-http://stanfill.github.io/archive.html
-http://stanfill.github.io/atom.xml
-http://stanfill.github.io/categories.html
-http://stanfill.github.io/index.html
-http://stanfill.github.io/pages.html
-http://stanfill.github.io/sitemap.txt
-http://stanfill.github.io/tags.html
+/archive.html
+/atom.xml
+/categories.html
+/index.html
+/pages.html
+/sitemap.txt
+/tags.html
 
-http://stanfill.github.io/lessons/2014/07/03/rotations
+/r/2014/07/03/rotations
