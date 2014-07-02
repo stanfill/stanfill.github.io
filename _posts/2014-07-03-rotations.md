@@ -9,5 +9,6 @@ tags : [rotations, R, C++, tutorial]
 Here is a plot of some randomly sampled observations from the location model in $SO(3)$
 
 {% highlight r %}
-2+2
+library(rotations)
+plot(ruars(20,rcayley,50))
 {% endhighlight %}
