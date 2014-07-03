@@ -7,7 +7,7 @@ tags : [rotations, R, tutorial]
 ---
 {% include JB/setup %}
 
-Here is a plot of some randomly sampled observations from the location model in $$SO(3)$$
+Here is how to plot some randomly sampled observations from the location model in $$SO(3)$$
 
 ~~~ r
 library(rotations)

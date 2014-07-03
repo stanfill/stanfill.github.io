@@ -4,7 +4,7 @@
  <title>stanfill</title>
  <link href="/" rel="self"/>
  <link href=""/>
- <updated>2014-07-03T13:43:05+10:00</updated>
+ <updated>2014-07-03T13:57:56+10:00</updated>
  <id></id>
  <author>
    <name>Bryan Stanfill</name>
@@ -18,7 +18,7 @@
    <updated>2014-07-03T00:00:00+10:00</updated>
    <id>/r/2014/07/03/rotations</id>
    <content type="html">
-&lt;p&gt;Here is a plot of some randomly sampled observations from the location model in &lt;script type=&quot;math/tex&quot;&gt;SO(3)&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Here is how to plot some randomly sampled observations from the location model in &lt;script type=&quot;math/tex&quot;&gt;SO(3)&lt;/script&gt;&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;library(rotations)
 plot(ruars(20,rcayley,50))

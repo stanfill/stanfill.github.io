@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Bryan Stanfill
-tagline: 
+title: 
+tagline: Bryan Stanfill
 ---
 {% include JB/setup %}
 
-Welcome to my website.  It is underconstruction while I figure out [JB](http://jekyllbootstrap.com/).
+Welcome to my website/blog.  It is underconstruction while I figure out [JB](http://jekyllbootstrap.com/).
     
-## First Post
+## Recent posts
 
-First (useless) post:
+An introduction to the  [`rotations`](http://cran.r-project.org/web/packages/rotations/index.html) package in R:
 
 <ul class="posts">
   {% for post in site.posts %}
