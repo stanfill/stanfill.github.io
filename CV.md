@@ -82,7 +82,7 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 
 **Estimating the Central Direction of Random Rotations in SO(3)**, Conference on Data Analysis, Sante Fe, NM, February 29 - March 2, 2012
 
-**Point Estimation of the Central Direction of Random Rotations in SO(3)**, 4th Annual Midwest Statistics Research Colloquium, Madison, WI , March 18 \& 19, 2011
+**Point Estimation of the Central Direction of Random Rotations in SO(3)**, 4th Annual Midwest Statistics Research Colloquium, Madison, WI , March 18 & 19, 2011
 
 ----
 
