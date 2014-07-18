@@ -6,7 +6,8 @@ tagline: Bryan Stanfill
 {% include JB/setup %}
 
 Welcome to my website/blog.  It is underconstruction while I figure out [JB](http://jekyllbootstrap.com/).
-    
+
+<!---
 ## Recent posts
 
 An introduction to the  [`rotations`](http://cran.r-project.org/web/packages/rotations/index.html) package in R:
@@ -17,5 +18,5 @@ An introduction to the  [`rotations`](http://cran.r-project.org/web/packages/rot
   {% endfor %}
 </ul>
 
-
+--->
 
