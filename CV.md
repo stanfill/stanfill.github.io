@@ -26,7 +26,7 @@ layout: page
   
   
 * Iowa State University Teaching Assistant  
-  * Taught an introductory business statistics course
+  * Instructor for an introductory business statistics course
   * Lab instructor for a graduate statistics course for non-statistics majors
   * Lab instructor for an advanced business statistics course
   * Statistics and Mathematics tutor for the Department of Athletics
@@ -44,7 +44,7 @@ layout: page
 
 D. Osthus, N. Beyler, **B. Stanfill**, S. Nusser, W. Fuller, A. Carriquiry, G. Welk. "Estimating the Distribution of Usual Daily Energy Expenditure as a Function of Individual Characteristics." *submitted*
 
-**B. Stanfill**. "Robust Statistical Methods for the Rotation Group." In *Proceedings of the 17th International Conference on Data Fusnion* Salamanca, Spain. July 7-10, 2014.
+**B. Stanfill**. "Robust Statistical Methods for the Rotation Group." In *Proceedings of the 17th International Conference on Data Fusion* Salamanca, Spain. July 7-10, 2014.
 
 G. Welk, Y. Kim, **B. Stanfill**, D. Osthus, M. Calabro, S. Nusser, A. Carriquiry (2014).  "Validity of a 24-Hour Physical Activity Recall: Physical Activity Measurement Survey." *Medicine and Science in Sports and Exercise*, in press.
 
@@ -72,31 +72,31 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 
 ### Poster Presentations
 
-*`apsimr`: Extending Agriculture Simulator Capabilities with R*, The R User Conference, Los Angeles, CA, June 30 - July 3, 2014
+**`apsimr`: Extending Agriculture Simulator Capabilities with R**, The R User Conference, Los Angeles, CA, June 30 - July 3, 2014
 
-*Confidence Regions for the Central Orientation of Random Rotations*, ASA Iowa Chapter Meeting, Ames, IA, November 1, 2013
+**Confidence Regions for the Central Orientation of Random Rotations**, ASA Iowa Chapter Meeting, Ames, IA, November 1, 2013
 
-*A Measurement Error Model for Physical Activity Data*, ASA Conference on Statistical Practice, New Orleans, LA, February 21 - 23, 2013
+**A Measurement Error Model for Physical Activity Data**, ASA Conference on Statistical Practice, New Orleans, LA, February 21 - 23, 2013
 
-*Estimating the Probability of Compliance with Physical Activity Guidelines from a Bayesian Perspective*, 8th International Conference on Diet and Activity Methods, Rome, Italy, May 14 - 17, 2012
+**Estimating the Probability of Compliance with Physical Activity Guidelines from a Bayesian Perspective**, 8th International Conference on Diet and Activity Methods, Rome, Italy, May 14 - 17, 2012
 
-*Estimating the Central Direction of Random Rotations in SO(3)*, Conference on Data Analysis, Sante Fe, NM, February 29 - March 2, 2012
+**Estimating the Central Direction of Random Rotations in SO(3)**, Conference on Data Analysis, Sante Fe, NM, February 29 - March 2, 2012
 
-*Point Estimation of the Central Direction of Random Rotations in SO(3)*, 4th Annual Midwest Statistics Research Colloquium, Madison, WI , March 18 \& 19, 2011
+**Point Estimation of the Central Direction of Random Rotations in SO(3)**, 4th Annual Midwest Statistics Research Colloquium, Madison, WI , March 18 \& 19, 2011
 
 ----
 
 ### R packages
 
-`apsimr`-edit, run and evaluate APSIM simulations from R easily.  Version 0.1 available on [CRAN][http://cran.rstudio.com/web/packages/apsimr/index.html]
+`apsimr`-edit, run and evaluate APSIM simulations from R easily.  Version 0.1 available on [CRAN](http://cran.rstudio.com/web/packages/apsimr/index.html)
 
-`rotations`-a package to generate, estimate, visualize and infer about random rotations in SO(3).  Version 1.2 available on [CRAN][http://cran.r-project.org/web/packages/rotations/index.html]
+`rotations`-a package to generate, estimate, visualize and infer about random rotations in SO(3).  Version 1.2 available on [CRAN](http://cran.r-project.org/web/packages/rotations/index.html)
 
 -----
 
 ### Contact Information
 
-* CSIRO Computational Informatics
+* CSIRO Data Analytics
 * Ecosystem Sciences, Dutton Park, QLD Australia
 * email: [bryan.stanfill@csiro.au](sta36z@csiro.au)
 * Phone number: +61 7 3833 5727
