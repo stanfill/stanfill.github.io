@@ -53,7 +53,7 @@ D. Osthus, N. Beyler, **B. Stanfill**, S. Nusser, W. Fuller, A. Carriquiry, G. W
 
 G. Welk, Y. Kim, **B. Stanfill**, D. Osthus, M. Calabro, S. Nusser, A. Carriquiry (2014).  "Validity of a 24-Hour Physical Activity Recall: Physical Activity Measurement Survey." *Medicine and Science in Sports and Exercise*, in press.
 
-**B. Stanfill**, H. Hofmann, U. Genschel (2014). "`rotations`-An R Package for SO(3) Data." *The R Journal*, 6(1).
+**B. Stanfill**, H. Hofmann, U. Genschel (2014). "`rotations`-An R Package for SO(3) Data." *The R Journal*, 6(1): 68-78.
 
 **B. Stanfill**, U. Genschel , H. Hofmann (2013).  "Point Estimation of the Central Orientation of Random Rotations." *Technometrics*, 55(4): 524-535. 
 
@@ -76,6 +76,8 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 ----
 
 ### Poster Presentations
+
+**Incorporating Spatial and Temporal Effects into the Sensitivity Analysis of an Agriculture Simulator**, Uncertainty in Computer Models 2014, Sheffield, UK, July 28 - 30, 2014
 
 **`apsimr`: Extending Agriculture Simulator Capabilities with R**, The R User Conference, Los Angeles, CA, June 30 - July 3, 2014
 
