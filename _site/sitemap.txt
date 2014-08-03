@@ -1,9 +1,9 @@
 
+/CV.html
 /about.html
 /archive.html
 /atom.xml
 /categories.html
-/CV.html
 /index.html
 /pages.html
 /sitemap.txt

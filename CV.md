@@ -23,7 +23,7 @@ layout: page
 
 * CSIRO Postdoctoral Researcher 
   * February 2014 - Present
-  * Uncertainty in computer model
+  * Uncertainty in computer models
   
   
 * Iowa State University Teaching Assistant 
