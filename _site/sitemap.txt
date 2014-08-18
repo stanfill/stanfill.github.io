@@ -6,6 +6,7 @@
 /categories.html
 /index.html
 /pages.html
+/research.html
 /sitemap.txt
 /tags.html
 
