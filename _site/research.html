@@ -146,13 +146,43 @@
 <div class="row">
   <div class="col-xs-12">
     
-<h3 id="statistics-for-so3">Statistics for SO(3)</h3>
-
-<h3 id="computing">Computing</h3>
-
 <h3 id="uncertainty-in-complex-computer-models">Uncertainty in Complex Computer Models</h3>
 
-<h3 id="miscellaneous-applications">Miscellaneous Applications</h3>
+<ul>
+  <li>Agriculture simulators, like <a href="http://www.apsim.info/">APSIM</a>, are subject to several sources of uncertainty
+    <ul>
+      <li>imperfect knowledge about input and internal parameter values</li>
+      <li>the difference between the simulator and the truth</li>
+    </ul>
+  </li>
+  <li>
+    <p>Understanding how uncertainty in parameter and input values is propagated through the simulator informs future studies.  That is, a thorough sensitivity analysis will identify which parameters require further investigation to reduce the uncertainty in the final product.</p>
+  </li>
+  <li>
+    <p>Traditional sensitivity index computation methods require a large number of simulator runs.  If the simulator takes a long time to run then sensitivity analysis is impractical and sometimes impossible.  The use of efficient emulators or other approximations to the simulator is an important tool that allows for a complete sensitivity analysis of even the most complex computer models.</p>
+  </li>
+  <li>Currently I am working to develop an efficient way to conduct a sensitivity analysis of APSIM that incorporates spatial and temporal effects using emulators.</li>
+</ul>
+
+<h3 id="statistics-in-so3">Statistics in SO(3)</h3>
+
+<ul>
+  <li><a href="http://lib.dr.iastate.edu/etd/13760/">My dissertation</a> covered several topics about statistical methods for the rotation group SO(3)
+    <ul>
+      <li>Chapter two considers various intrinsic and extrinsic estimators for the central orientation (or mean) based on a sample of rotationally symmetric random rotations (also can be found in <a href="http://amstat.tandfonline.com/doi/abs/10.1080/00401706.2013.826145#.U_bQrvmSync">Technometrics</a>)</li>
+      <li>Non-parametric confidence regions for the central orientation are considered in chapter three</li>
+      <li>Several asymptotic properties of the extrinsic median on SO(3) are derived and it is compared to the extrinsic mean with respect to efficiency and robustness in chapter four</li>
+      <li>Chapter five describes the R package <code>rotations</code> (also can be found in <a href="http://journal.r-project.org/archive/2014-1/">The R Journal</a>)</li>
+    </ul>
+  </li>
+  <li>Currently I am working on several related topics
+    <ul>
+      <li>I am developing a test for outliers in SO(3)</li>
+      <li>Introducing the concept of influence functions in SO(3)</li>
+      <li>Deriving asymptotic properties of intrinsic estimators for the central orientation</li>
+    </ul>
+  </li>
+</ul>
 
   </div>
 </div>
