@@ -51,7 +51,7 @@ D. Osthus, N. Beyler, **B. Stanfill**, S. Nusser, W. Fuller, A. Carriquiry, G. W
 
 **B. Stanfill**. "Robust Statistical Methods for the Rotation Group." In *Proceedings of the 17th International Conference on Data Fusion* Salamanca, Spain. July 7-10, 2014.
 
-G. Welk, Y. Kim, **B. Stanfill**, D. Osthus, M. Calabro, S. Nusser, A. Carriquiry (2014).  "Validity of a 24-Hour Physical Activity Recall: Physical Activity Measurement Survey." *Medicine and Science in Sports and Exercise*, in press.
+G. Welk, Y. Kim, **B. Stanfill**, D. Osthus, M. Calabro, S. Nusser, A. Carriquiry (2014).  "Validity of a 24-Hour Physical Activity Recall: Physical Activity Measurement Survey." *Medicine and Science in Sports and Exercise*, 46(10): 2014-2024.
 
 **B. Stanfill**, H. Hofmann, U. Genschel (2014). "`rotations`-An R Package for SO(3) Data." *The R Journal*, 6(1): 68-78.
 
@@ -121,7 +121,6 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 ### Contact Information
 
 * CSIRO Digital Productivity and Services Flagship
-* Data Analytics Division
 * Ecosystem Sciences, Dutton Park, QLD Australia
 * email: [bryan.stanfill@csiro.au](sta36z@csiro.au)
 * Phone number: +61 7 3833 5727
