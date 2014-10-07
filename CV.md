@@ -49,15 +49,19 @@ layout: page
 
 D. Osthus, N. Beyler, **B. Stanfill**, S. Nusser, W. Fuller, A. Carriquiry, G. Welk. "Estimating the Distribution of Usual Daily Energy Expenditure as a Function of Individual Characteristics." *submitted*
 
-**B. Stanfill**. "Robust Statistical Methods for the Rotation Group." In *Proceedings of the 17th International Conference on Data Fusion* Salamanca, Spain. July 7-10, 2014.
-
 G. Welk, Y. Kim, **B. Stanfill**, D. Osthus, M. Calabro, S. Nusser, A. Carriquiry (2014).  "Validity of a 24-Hour Physical Activity Recall: Physical Activity Measurement Survey." *Medicine and Science in Sports and Exercise*, 46(10): 2014-2024.
 
 **B. Stanfill**, H. Hofmann, U. Genschel (2014). "`rotations`-An R Package for SO(3) Data." *The R Journal*, 6(1): 68-78.
 
 **B. Stanfill**, U. Genschel , H. Hofmann (2013).  "Point Estimation of the Central Orientation of Random Rotations." *Technometrics*, 55(4): 524-535. 
 
-G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelter (2013).  "Evaluating the Impact of Spatial Ability in Virtual and Real World Environments." *The Sixth International Conference on Advances in Computer-Human Interactions*. Nice, France.  February 24 - 28, 2013. pp. 274-279.
+----
+
+### Conference Proceedings
+
+**B. Stanfill** (2014). "Robust Statistical Methods for the Rotation Group." In *Proceedings of the 17th International Conference on Data Fusion*. Salamanca, Spain. July 7-10, 2014.
+
+G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelter (2013).  "Evaluating the Impact of Spatial Ability in Virtual and Real World Environments." In *Proceedings of the Sixth International Conference on Advances in Computer-Human Interactions*. Nice, France.  February 24 - 28, 2013. pp. 274-279.
 
 **B. Stanfill**, U. Genschel, H. Hofmann (2011). "Point Estimation of the Central Direction of Random Rotations." In *JSM Proceedings*, Section on Physical and Engineering Sciences. Alexandria, VA: American Statistical Association, pp. 1883-1893.
 
