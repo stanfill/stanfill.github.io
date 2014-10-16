@@ -21,7 +21,7 @@ layout: page
 
 ### Experience
 
-* CSIRO Postdoctoral Researcher 
+* CSIRO Postdoctoral Fellow 
   * February 2014 - Present
   * Uncertainty in computer models
   

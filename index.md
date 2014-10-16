@@ -5,7 +5,7 @@ tagline: Bryan Stanfill
 ---
 {% include JB/setup %}
 
-Welcome to my website/blog.  It is underconstruction while I figure out [JB](http://jekyllbootstrap.com/).
+Welcome to my website.
 
 <!---
 ## Recent posts
