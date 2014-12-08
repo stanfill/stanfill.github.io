@@ -69,13 +69,15 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 
 ### Presentations
 
-**[Robust Statistical Methods for the Rotation Group](images/StanfillFUSION.pdf)**, 17th International Conference on Information Fusion, July 7 - 10, 2014
+**[An efficient sensitivity analysis method for spatio-temporal data from an agricultural systems simulator](images/StanfillAASC.pdf)**, Australasian Applied Statistics Conference, Port Lincoln, Australia, December 1 - 5, 2014
 
-**[Inference for the Central Direction of Random Rotations in SO(3)](images/StanfillSlides.pdf)**, Joint Statistical Meetings, August 3 - 8, 2013
+**[Robust Statistical Methods for the Rotation Group](images/StanfillFUSION.pdf)**, 17th International Conference on Information Fusion, Salamanca, Spain, July 7 - 10, 2014
 
-**[Quantifying Recall and Processing Errors in Surveys Utilizing the Compendium of Physical Activities](imgaes/StanfillITSEWFinal.pdf)**, 7th International Total Survey Error Workshop, June 2 - 4, 2013
+**[Inference for the Central Direction of Random Rotations in SO(3)](images/StanfillSlides.pdf)**, Joint Statistical Meetings, Montreal, Canada, August 3 - 8, 2013
 
-**Point Estimation of the Central Direction of Random Rotations in SO(3)**, Joint Statistical Meetings, July 30 - August 4, 2011
+**[Quantifying Recall and Processing Errors in Surveys Utilizing the Compendium of Physical Activities](imgaes/StanfillITSEWFinal.pdf)**, 7th International Total Survey Error Workshop, Ames, IA, June 2 - 4, 2013
+
+**Point Estimation of the Central Direction of Random Rotations in SO(3)**, Joint Statistical Meetings, Miami, FL, July 30 - August 4, 2011
 
 ----
 
