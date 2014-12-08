@@ -45,9 +45,9 @@ layout: page
 
 ### [Publications](http://scholar.google.com.au/citations?user=GON230oAAAAJ&hl=en)
 
-**B. Stanfill**, U. Genschel, H. Hofmann, D. Nordman.  "Nonparamteric Confidence Regions for the Central Orientation of Random Rotations." *submitted*
-
 D. Osthus, N. Beyler, **B. Stanfill**, S. Nusser, W. Fuller, A. Carriquiry, G. Welk. "Estimating the Distribution of Usual Daily Energy Expenditure as a Function of Individual Characteristics." *submitted*
+
+**B. Stanfill**, U. Genschel, H. Hofmann, D. Nordman.  "Nonparamteric Confidence Regions for the Central Orientation of Random Rotations." Accepted to *Journal of Multivariate Analysis*
 
 G. Welk, Y. Kim, **B. Stanfill**, D. Osthus, M. Calabro, S. Nusser, A. Carriquiry (2014).  ["Validity of a 24-Hour Physical Activity Recall: Physical Activity Measurement Survey."](http://europepmc.org/abstract/med/24561818) *Medicine and Science in Sports and Exercise*, 46(10): 2014-2024.
 
