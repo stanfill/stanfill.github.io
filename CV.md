@@ -129,6 +129,6 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 * CSIRO Digital Productivity Flagship
 * Ecosystem Sciences, Dutton Park, QLD Australia
 * email: [bryan.stanfill@csiro.au](sta36z@csiro.au)
-* Phone number: +61~7~3833~5727
+* Phone number: +61 7 3833 5727
 
 ----
