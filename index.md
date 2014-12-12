@@ -7,7 +7,7 @@ tagline: Bryan Stanfill
 
 Hello and welcome to my website.  I am a statistics postdoctoral fellow at the Commonwealth Scientific and Industrial Research Organisation (CSIRO).  My research interests are: statistical methods for data on manifolds, uncertainty quantification of complex computer models and agricultural statistics.  Feel free to look around and contact me for a chat!
 
-<p><img src="images/BryanAASC2014.JPG" width="320" /></p>
+<p><img src="images/BryanAASC2014.jpg" width="320"/></p>
 
 <!---
 ## Recent posts
