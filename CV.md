@@ -45,7 +45,11 @@ layout: page
 
 ### [Publications](http://scholar.google.com.au/citations?user=GON230oAAAAJ&hl=en)
 
+<!---
 D. Osthus, N. Beyler, **B. Stanfill**, S. Nusser, W. Fuller, A. Carriquiry, G. Welk. "Estimating the Distribution of Usual Daily Energy Expenditure as a Function of Individual Characteristics." *submitted*
+-->
+
+**B. Stanfill**, H. Mielenz, D. Clifford, P. Thorburn.  "A Simple Approach to Emulating Complex Computer Models for Global Sensitivity Analysis." *Under review*
 
 **B. Stanfill**, U. Genschel, H. Hofmann, D. Nordman (2015).  ["Nonparamteric Confidence Regions for the Central Orientation of Random Rotations."](http://authors.elsevier.com/a/1QKmP,14nMREJv) *Journal of Multivariate Analysis*, 135: 106-116.
 
@@ -59,11 +63,13 @@ G. Welk, Y. Kim, **B. Stanfill**, D. Osthus, M. Calabro, S. Nusser, A. Carriquir
 
 ### Conference Proceedings
 
-**B. Stanfill** (2014). ["Robust Statistical Methods for the Rotation Group."](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6916291&searchWithin%3Dstanfill%26sortType%3Dasc_p_Sequence%26filter%3DAND%28p_IS_Number%3A6915967%29) In *Proceedings of the 17th International Conference on Data Fusion*. Salamanca, Spain. July 7-10, 2014.
+**B. Stanfill** (2014). ["Robust Statistical Methods for the Rotation Group."](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6916291&searchWithin%3Dstanfill%26sortType%3Dasc_p_Sequence%26filter%3DAND%28p_IS_Number%3A6915967%29) In *Proceedings of the 17th International Conference on Data Fusion*[^1]. Salamanca, Spain. July 7-10, 2014.
 
-G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelter (2013).  ["Evaluating the Impact of Spatial Ability in Virtual and Real World Environments."](http://lib.dr.iastate.edu/stat_las_conf/3/) In *Proceedings of the Sixth International Conference on Advances in Computer-Human Interactions*. Nice, France.  February 24 - 28, 2013. pp. 274-279.
+G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelter (2013).  ["Evaluating the Impact of Spatial Ability in Virtual and Real World Environments."](http://lib.dr.iastate.edu/stat_las_conf/3/) In *Proceedings of the Sixth International Conference on Advances in Computer-Human Interactions*[^1]. Nice, France.  February 24 - 28, 2013. pp. 274-279.
 
 **B. Stanfill**, U. Genschel, H. Hofmann (2011). "Point Estimation of the Central Direction of Random Rotations." In *JSM Proceedings*, Section on Physical and Engineering Sciences. Alexandria, VA: American Statistical Association, pp. 1883-1893.
+
+[^1]: Refereed
 
 ----
 
