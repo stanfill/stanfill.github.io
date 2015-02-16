@@ -108,9 +108,9 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 
 ### R packages
 
-`apsimr` - edit, run and evaluate APSIM simulations from R easily.  Version 0.1 available on [CRAN](http://cran.rstudio.com/web/packages/apsimr/index.html).  Version 0.2 includes a connection to a popular sensitivity analysis package, available on [GitHub](https://github.com/stanfill/apsimr).
+`apsimr` - edit, run and evaluate APSIM simulations from R easily.  Version 0.1 available on [CRAN](http://cran.rstudio.com/web/packages/apsimr/index.html).  Version 0.2 includes a connection to the package [sensitivity](http://cran.r-project.org/web/packages/sensitivity/index.html) and functions to execute novel sensitivity analysis techniques, available on [GitHub](https://github.com/stanfill/apsimr).
 
-`rotations` - a package to generate, estimate, visualize and infer about random rotations in SO(3).  Version 1.2 available on [CRAN](http://cran.r-project.org/web/packages/rotations/index.html).  Version 1.3 includes functions for testing for outliers, available on [GitHub](https://github.com/stanfill/rotationsC/tree/master/rotations).
+`rotations` - a package to generate, estimate, visualize and infer about random rotations in SO(3).  Version 1.3 available on [CRAN](http://cran.r-project.org/web/packages/rotations/index.html).  Version 1.4 is under development and is available on [GitHub](https://github.com/stanfill/rotationsC/tree/master/rotations).
 
 -----
 
