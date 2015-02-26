@@ -75,7 +75,7 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 
 ### Presentations
 
-**[An efficient sensitivity analysis method for spatio-temporal data from an agricultural systems simulator](images/StanfillAASC.pdf)**, Australasian Applied Statistics Conference, Port Lincoln, Australia, December 1 - 5, 2014
+**[An Efficient Sensitivity Analysis Method for Spatio-temporal Data from an Agricultural Systems Simulator](images/StanfillAASC.pdf)**, Australasian Applied Statistics Conference, Port Lincoln, Australia, December 1 - 5, 2014
 
 **[Robust Statistical Methods for the Rotation Group](images/StanfillFUSION.pdf)**, 17th International Conference on Information Fusion, Salamanca, Spain, July 7 - 10, 2014
 
@@ -118,7 +118,7 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 
 **Total Survey Error: Robert Groves and Lars Lyberg**, Iowa State University Survey Working Group, February 1, 2013
 
-**[A Modified Random Forst Procedure with Survey Applications](images/PAMSModRF.pdf)**, Iowa State University Survey Working Group, October 1, 2012
+**[A Modified Random Forest Procedure with Survey Applications](images/PAMSModRF.pdf)**, Iowa State University Survey Working Group, October 1, 2012
 
 **Estimating the Probability of Compliance with Physical Activity Guidelines from a Bayesian Perspective, Revisited**, Iowa State University Survey Working Group, March 9, 2012
 
