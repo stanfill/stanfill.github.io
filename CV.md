@@ -49,7 +49,7 @@ layout: page
 D. Osthus, N. Beyler, **B. Stanfill**, S. Nusser, W. Fuller, A. Carriquiry, G. Welk. "Estimating the Distribution of Usual Daily Energy Expenditure as a Function of Individual Characteristics." *submitted*
 -->
 
-**B. Stanfill**, H. Mielenz, D. Clifford, P. Thorburn.  "A Simple Approach to Emulating Complex Computer Models for Global Sensitivity Analysis." *Under review*
+**B. Stanfill**, H. Mielenz, D. Clifford, P. Thorburn (2015).  ["Simple Approach to Emulating Complex Computer Models for Global Sensitivity Analysis."](http://authors.elsevier.com/a/1RoJ-4sKhE5u~~) *Environmental Modelling and Software*, 74: 140-155.
 
 **B. Stanfill**, U. Genschel, H. Hofmann, D. Nordman (2015).  ["Nonparamteric Confidence Regions for the Central Orientation of Random Rotations."](http://authors.elsevier.com/a/1QKmP,14nMREJv) *Journal of Multivariate Analysis*, 135: 106-116.
 
