@@ -4,7 +4,7 @@
  <title>stanfill</title>
  <link href="/" rel="self"/>
  <link href=""/>
- <updated>2015-02-16T10:00:00+10:00</updated>
+ <updated>2015-02-26T14:48:14-05:00</updated>
  <id></id>
  <author>
    <name>Bryan Stanfill</name>
@@ -15,7 +15,7 @@
  <entry>
    <title>SO(3) in R</title>
    <link href="/r/2014/07/03/rotations"/>
-   <updated>2014-07-03T00:00:00+10:00</updated>
+   <updated>2014-07-03T00:00:00-04:00</updated>
    <id>/r/2014/07/03/rotations</id>
    <content type="html">
 &lt;p&gt;Here is how to plot some randomly sampled observations from the location model in &lt;script type=&quot;math/tex&quot;&gt;SO(3)&lt;/script&gt;&lt;/p&gt;

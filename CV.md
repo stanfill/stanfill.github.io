@@ -75,7 +75,7 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 
 ### Presentations
 
-**[An efficient sensitivity analysis method for spatio-temporal data from an agricultural systems simulator](images/StanfillAASC.pdf)**, Australasian Applied Statistics Conference, Port Lincoln, Australia, December 1 - 5, 2014
+**[An Efficient Sensitivity Analysis Method for Spatio-temporal Data from an Agricultural Systems Simulator](images/StanfillAASC.pdf)**, Australasian Applied Statistics Conference, Port Lincoln, Australia, December 1 - 5, 2014
 
 **[Robust Statistical Methods for the Rotation Group](images/StanfillFUSION.pdf)**, 17th International Conference on Information Fusion, Salamanca, Spain, July 7 - 10, 2014
 
@@ -108,9 +108,9 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 
 ### R packages
 
-`apsimr` - edit, run and evaluate APSIM simulations from R easily.  Version 0.1 available on [CRAN](http://cran.rstudio.com/web/packages/apsimr/index.html).  Version 0.2 includes a connection to a popular sensitivity analysis package, available on [GitHub](https://github.com/stanfill/apsimr).
+`apsimr` - edit, run and evaluate APSIM simulations from R easily.  Version 0.1 available on [CRAN](http://cran.rstudio.com/web/packages/apsimr/index.html).  Version 0.2 includes a connection to the package [sensitivity](http://cran.r-project.org/web/packages/sensitivity/index.html) and functions to execute novel sensitivity analysis techniques, available on [GitHub](https://github.com/stanfill/apsimr).
 
-`rotations` - a package to generate, estimate, visualize and infer about random rotations in SO(3).  Version 1.2 available on [CRAN](http://cran.r-project.org/web/packages/rotations/index.html).  Version 1.3 includes functions for testing for outliers, available on [GitHub](https://github.com/stanfill/rotationsC/tree/master/rotations).
+`rotations` - a package to generate, estimate, visualize and infer about random rotations in SO(3).  Version 1.3 available on [CRAN](http://cran.r-project.org/web/packages/rotations/index.html).  Version 1.4 is under development and is available on [GitHub](https://github.com/stanfill/rotationsC/tree/master/rotations).
 
 -----
 
@@ -118,7 +118,7 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 
 **Total Survey Error: Robert Groves and Lars Lyberg**, Iowa State University Survey Working Group, February 1, 2013
 
-**[A Modified Random Forst Procedure with Survey Applications](images/PAMSModRF.pdf)**, Iowa State University Survey Working Group, October 1, 2012
+**[A Modified Random Forest Procedure with Survey Applications](images/PAMSModRF.pdf)**, Iowa State University Survey Working Group, October 1, 2012
 
 **Estimating the Probability of Compliance with Physical Activity Guidelines from a Bayesian Perspective, Revisited**, Iowa State University Survey Working Group, March 9, 2012
 
