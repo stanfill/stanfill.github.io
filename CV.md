@@ -75,6 +75,10 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 
 ### Presentations
 
+**Informing Physical Activity Interventions Using Bayesian Multilevel Modeling**, 9th International Conference on Diet and Activity Methods, Brisbane, Australia, September 1 - 3, 2015
+
+**Tests of Discord for Isotropic Random Rotations**, Joint Statistical Meetings, Seattle, WA, August 8 - 13, 2015
+
 **[An Efficient Sensitivity Analysis Method for Spatio-temporal Data from an Agricultural Systems Simulator](images/StanfillAASC.pdf)**, Australasian Applied Statistics Conference, Port Lincoln, Australia, December 1 - 5, 2014
 
 **[Robust Statistical Methods for the Rotation Group](images/StanfillFUSION.pdf)**, 17th International Conference on Information Fusion, Salamanca, Spain, July 7 - 10, 2014
@@ -108,9 +112,9 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 
 ### R packages
 
-`apsimr` - edit, run and evaluate APSIM simulations from R easily.  Version 0.1 available on [CRAN](http://cran.rstudio.com/web/packages/apsimr/index.html).  Version 0.2 includes a connection to the package [sensitivity](http://cran.r-project.org/web/packages/sensitivity/index.html) and functions to execute novel sensitivity analysis techniques, available on [GitHub](https://github.com/stanfill/apsimr).
+`apsimr` - edit, run and evaluate APSIM simulations from R easily.  Version 1.1 is available on [CRAN](http://cran.rstudio.com/web/packages/apsimr/index.html).  This version of the package includes several bug fixes, a connection to the package [sensitivity](http://cran.r-project.org/web/packages/sensitivity/index.html) and functions to execute novel sensitivity analysis techniques.
 
-`rotations` - a package to generate, estimate, visualize and infer about random rotations in SO(3).  Version 1.3 available on [CRAN](http://cran.r-project.org/web/packages/rotations/index.html).  Version 1.4 is under development and is available on [GitHub](https://github.com/stanfill/rotationsC/tree/master/rotations).
+`rotations` - a package to generate, estimate, visualize and infer about random rotations in SO(3).  Version 1.3 available on [CRAN](http://cran.r-project.org/web/packages/rotations/index.html).  Version 1.4 includes measures of discord and new distribution on SO(3); it is available on [GitHub](https://github.com/stanfill/rotationsC/tree/master/rotations).
 
 -----
 
