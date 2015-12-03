@@ -21,23 +21,31 @@ layout: page
 
 ### Experience
 
-* CSIRO Postdoctoral Fellow 
-  * February 2014 - Present
+* Pacific Northwest National Lab
+  * Statistical Scientist
+  * November 2015 - Present
+
+* CSIRO 
+  * Postdoctoral Fellow 
+  * February 2014 - November 2015
   * Uncertainty in computer models
   
   
-* Iowa State University Teaching Assistant 
+* Iowa State University 
+  * Teaching Assistant 
   * August 2009 - July 2010, August 2013 - December 2013
   * Instructor for an introductory business statistics course
   * Lab instructor for a graduate statistics course for non-statistics majors
   * Lab instructor for an advanced business statistics course
   * Statistics and Mathematics tutor for the Department of Athletics
   
-* Iowa State University Research Assistant 
+* Iowa State University 
+  * Research Assistant 
   * August 2010 - July 2013
   * Measurement error modelling with physical activity applications
   
-* Monsanto - Corn Breeding Intern 
+* Monsanto 
+  * Corn Breeding Intern 
   * May - August 2012
   * Develop a novel random forest technique to predict corn phenotypes based on genotype data
   
