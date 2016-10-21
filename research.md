@@ -6,6 +6,12 @@ layout: page
 ---
 {% include JB/setup %}
 
+
+### EM Videos
+
+* Segmenting [EM vidoes with an anode in them](http://stanfill.github.io/Compare_BG_Functions.nb.html)
+* Segmenting [Core shell videos](http://stanfill.github.io/Binning_core_shell_videos.nb.html)
+
 ### Uncertainty in Complex Computer Models
 
 * Complex computer models, e.g. [APSIM](http://www.apsim.info/), are subject to several sources of uncertainty, including but not limited to:
