@@ -23,7 +23,7 @@ layout: page
 
 * Pacific Northwest National Lab
   * Statistical Scientist
-  * November 2015 - Present
+  * October 2015 - Present
 
 * CSIRO 
   * Postdoctoral Fellow 
@@ -57,6 +57,8 @@ layout: page
 D. Osthus, N. Beyler, **B. Stanfill**, S. Nusser, W. Fuller, A. Carriquiry, G. Welk. "Estimating the Distribution of Usual Daily Energy Expenditure as a Function of Individual Characteristics." *submitted*
 -->
 
+P. Alderman, **B. Stanfill** (2016).  ["Can't remember off the top of my head."](http://authors.elsevier.com/a/1RoJ-4sKhE5u~~) *European Journal of Agronomy*, 74: 140-155.
+
 **B. Stanfill**, H. Mielenz, D. Clifford, P. Thorburn (2015).  ["Simple Approach to Emulating Complex Computer Models for Global Sensitivity Analysis."](http://authors.elsevier.com/a/1RoJ-4sKhE5u~~) *Environmental Modelling and Software*, 74: 140-155.
 
 **B. Stanfill**, U. Genschel, H. Hofmann, D. Nordman (2015).  ["Nonparamteric Confidence Regions for the Central Orientation of Random Rotations."](http://authors.elsevier.com/a/1QKmP,14nMREJv) *Journal of Multivariate Analysis*, 135: 106-116.
@@ -82,6 +84,8 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 ----
 
 ### Presentations
+
+**Uncertainty Quantification in Human Reliability Modeling for Security Screening Operations**, Workshop on Uncertainty Quantification at the 2016 ANNTPC, Santa Fe, New Mexico, September 25 - 30, 2015
 
 **Informing Physical Activity Interventions Using Bayesian Multilevel Modeling**, 9th International Conference on Diet and Activity Methods, Brisbane, Australia, September 1 - 3, 2015
 
@@ -144,9 +148,9 @@ G. Batinov, K. Whitney, L. Miller, S. Nusser, **B. Stanfill**, and K. Ashenfelte
 
 ### Contact Information
 
-* CSIRO Digital Productivity Flagship
-* Ecosystem Sciences, Dutton Park, QLD Australia
-* email: [bryan.stanfill@csiro.au](sta36z@csiro.au)
-* Phone number: +61 7 3833 5727
+* PNNL National Security Directorate
+* ISB1, Richland, Washington
+* email: [bryan.stanfill@pnnl.gov](bryan.stanfill@pnnl.gov)
+* Phone number: (509) 375-6403
 
 ----

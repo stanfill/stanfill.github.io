@@ -6,6 +6,6 @@ layout: page
 ---
 {% include JB/setup %}
 
-I used to live in Brisbane, Australia where I worked as a postdoc at CSIRO.  This is the view from Mt. Coot-tha in Brisbane.
+I have a nine month old so I don't do much.
 
-<p><img src="images/mtcootha.JPG" width="900" heigth="300"/></p>
+<p><img src="images/thea.jpeg" height="300"/></p>
