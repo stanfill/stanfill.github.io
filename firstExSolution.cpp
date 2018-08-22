@@ -19,8 +19,8 @@ mat <- matrix(runif(1000),100,10)
 rowMeans_Cpp(mat)
 
 #Do you get the same results?
-range(test_cm(mat)-apply(mat,1,mean))
-range(test_cm(mat)-rowMeans(mat))
+range(rowMeans_Cpp(mat)-apply(mat,1,mean))
+range(rowMeans_Cpp(mat)-rowMeans(mat))
 
 library(microbenchmark)
 microbenchmark(apply(mat,1,mean),rowMeans_Cpp(mat))
