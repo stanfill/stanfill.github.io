@@ -57,7 +57,7 @@ layout: page
 D. Osthus, N. Beyler, **B. Stanfill**, S. Nusser, W. Fuller, A. Carriquiry, G. Welk. "Estimating the Distribution of Usual Daily Energy Expenditure as a Function of Individual Characteristics." *submitted*
 -->
 
-P. Alderman, **B. Stanfill** (2016).  ["Can't remember off the top of my head."](http://authors.elsevier.com/a/1RoJ-4sKhE5u~~) *European Journal of Agronomy*, 74: 140-155.
+P. Alderman, **B. Stanfill** (2016).  ["Quantifying model-structure-and parameter-driven uncertainties in spring wheat phenology prediction with Bayesian analysis."](http://authors.elsevier.com/a/1RoJ-4sKhE5u~~) *European Journal of Agronomy*, 88: 1-9.
 
 **B. Stanfill**, H. Mielenz, D. Clifford, P. Thorburn (2015).  ["Simple Approach to Emulating Complex Computer Models for Global Sensitivity Analysis."](http://authors.elsevier.com/a/1RoJ-4sKhE5u~~) *Environmental Modelling and Software*, 74: 140-155.
 
